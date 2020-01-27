@@ -11,3 +11,10 @@ redirect_from:
 About
 ======
 Detailed biography
+
+
+<a class="twitter-timeline"
+  href="https://twitter.com/KyleneKristine"
+  data-tweet-limit="3">
+Tweets by @KyleneKristine
+</a>
