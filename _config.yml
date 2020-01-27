@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  presentations:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -244,6 +247,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  #_presentations
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
