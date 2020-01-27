@@ -14,13 +14,13 @@ Kylene Kristine Hutchinson  Metadata SLS | Brown University
 
 ![Using SQL reduced time spent on removing duplicate records by 75%](https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_pages/_presentations/2020posterheader.jpg?raw=true "Using SQL reduced time spent on removing duplicate records by 75%")
 
-The Problem
+The Problem <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_pages/_presentations/problem.png" width="30" height="30">
 ---
 Use of multiple demand driven acquisitions plans resulted in overlap of titles being purchased.
 
 Sierra Headings Report resulted in more irrelevant results than relevant. Staff was spending up to 4 hours a week sorting through these results.
 
-The Solution
+The Solution <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_pages/_presentations/code (1).png" width="30" height="30">
 ---
 Once vendor prioritization was decided, a SQL query was developed to look for more than one bib number linked to a single isbn. DDA records were separated from other eresources and print resources by using a local 910 tag. 
 
@@ -28,13 +28,13 @@ Once vendor prioritization was decided, a SQL query was developed to look for mo
 
 Once the query was successful, it was made into an executable program using python.
 
-The Results
+The Results <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_pages/_presentations/solved.png" width="30" height="30">
 ---
 After uploading 227 jstor dda records, SQL returned 16 results. while SIERRA returned 126 records, only 16 were relevant.
 
 Staff went from spending 1-4 hours reviewing records to less than 30 minutes.
 
-The Resources
+The Resources <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_pages/_presentations/book.png" width="30" height="30">
 ---
 #### Codecademy.com
 Learn SQL and PYTHON for free.
