@@ -1,6 +1,6 @@
 ---
 title: "SQL DEDUPE"
-collection: posters
+collection: presentations
 type: "Presentations"
 permalink: /presentations/2020ERLposter
 venue: "ATT Austin, TX"
