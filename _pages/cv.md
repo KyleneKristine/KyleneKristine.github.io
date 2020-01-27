@@ -84,6 +84,29 @@ Proficiencies
 | **Foreign Languages** | Reading Comprehension of Spanish |
 
 
+Professional Development
+===
+## *RECENT WEBINARS*
+**New Concepts in RDA Workshop Series, 2019**<br>
+Maxwell, R. L., Sprochi, A. K., & Brenndorfer, T.
+
+**From MARC to BIBFRAME: Linked Data on the Ground - Enhanced, 2018**<br>
+Cannan, J., Frank, P., Hess, K., McCallum, S., Bell, J., Lorimer, N., Billey, A., Wacker, M., elSherbini, M., & McGee, M.
+
+**Introduction To Python and PyMARC, 2017**<br>
+Magnuson, L.
+
+## *RECENT & UPCOMING CONFERENCES*
+**Electronic Resources & Libraries, 2020**<br>
+Austin, TX 
+
+**Innovative Users Group Conference, 2019**<br>
+Phoenix, AZ
+
+**New England Technical Services Librarians Conference, 2018**<br>
+Worcester, MA
+
+
 
 Presentations
 ======
