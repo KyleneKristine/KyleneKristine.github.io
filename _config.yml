@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+layout: sidebar
+style: light
 locale                   : "en-US"
 title                    : "Kylene Kristine Hutchinson"
 title_separator          : "-"
@@ -77,6 +79,18 @@ analytics:
   google:
     tracking_id          :
 
+#Repository
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: false
+    projects:
+      - KyleneKristine
 
 # Site Author
 author:
