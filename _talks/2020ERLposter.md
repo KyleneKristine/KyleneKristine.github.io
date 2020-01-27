@@ -1,5 +1,5 @@
 ---
-title: "SQL DEDUPE"
+title: "Using SQL to Reduce Demand Driven Acquisition Duplications"
 collection: presentations
 type: "Presentations"
 permalink: /presentations/2020ERLposter
@@ -7,10 +7,6 @@ venue: "ATT Austin, TX"
 date: 2020-03-09
 location: "Austin, TX"
 ---
-
-Using SQL to Reduce Demand Driven Acquisition Duplications
-====
-Kylene Kristine Hutchinson  Metadata SLS | Brown University
 
 ![Using SQL reduced time spent on removing duplicate records by 75%](https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/2020posterheader.jpg?raw=true "Using SQL reduced time spent on removing duplicate records by 75%")
 
