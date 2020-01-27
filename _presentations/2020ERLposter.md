@@ -12,7 +12,7 @@ Using SQL to Reduce Demand Driven Acquisition Duplications
 ====
 Kylene Kristine Hutchinson  Metadata SLS | Brown University
 
-![Using SQL reduced time spent on removing duplicate records by 75%](https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_pages/_presentations/2020posterheader.jpg?raw=true "Using SQL reduced time spent on removing duplicate records by 75%")
+![Using SQL reduced time spent on removing duplicate records by 75%](https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/2020posterheader.jpg?raw=true "Using SQL reduced time spent on removing duplicate records by 75%")
 
 The Problem <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/problem.png" width="30" height="30">
 ---
@@ -20,7 +20,7 @@ Use of multiple demand driven acquisitions plans resulted in overlap of titles b
 
 Sierra Headings Report resulted in more irrelevant results than relevant. Staff was spending up to 4 hours a week sorting through these results.
 
-The Solution <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/code (1).png" width="30" height="30">
+The Solution <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/code.png" width="30" height="30">
 ---
 Once vendor prioritization was decided, a SQL query was developed to look for more than one bib number linked to a single isbn. DDA records were separated from other eresources and print resources by using a local 910 tag. 
 
