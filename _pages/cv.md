@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Print Version](/files/Kylene Kristine Hutchinson.pdf "PDF Resume")
+
 Education
 ======
 * B.F.A. in Illustration, Art Institute of Boston, 2012
