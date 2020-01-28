@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kylene Kristine Hutchinson"
+title                    : "Kylene Kristine Hutchinson, MLS."
 title_separator          : "-"
 name                     : &name "Kylene Kristine Hutchinson"
-description              : &description "Librarian at Brown University"
+description              : &description ""
 url                      : https://KyleneKristine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KyleneKristine/KyleneKristine.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Kylene Kristine Hutchinson"
   avatar           : "fc.PNG"
-  bio              : "MLS. Skilled in Metadata and Systems."
+  bio              : "Librarian and technologist. Skilled in metadata and basic programming."
   location         : "Providence, RI"
   employer         :
   pubmed           : 
