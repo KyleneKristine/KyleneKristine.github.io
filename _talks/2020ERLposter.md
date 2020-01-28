@@ -25,7 +25,7 @@ Since purchase loads could take a while to become available to download, there w
 
 Once vendor prioritization was decided, a SQL query was developed to look for more than one bib number linked to a single isbn. DDA records were separated from other eresources and print resources by using a local 910 tag. 
 
-2020posterimage.png
+![](/images/sqlposterc.jpg "screenshot of the sql code used")
 
 Once the query was successful, it was made into an executable program using python. The executable program would take several minutes to run before resulting in a text file containing a list of isbns and how many bib records were linked to them.
 
