@@ -45,23 +45,23 @@ Learn SQL and PYTHON for free.
 #### [Github.com](http://github.com)
 Repositories of code, including librarian made code. Download and edit for use or look for examples to learn from.
 
-### [Deduplication Repository](https://github.com/KyleneKristine/deduplicator)
+#### [Deduplication Repository](https://github.com/KyleneKristine/deduplicator)
 My python files that run the SQL query. In the DDA file: You will need to edit line 9 with your Sierra host information, and change the v.field and v.content field in the SQL to whatever local field you use to indicate a DDA. In the Physical file: You will just need to edit line 9. Only the Physical.py file currently saves a text file.
 
-### [Sierra DNA](https://techdocs.iii.com/sierradna/)
+#### [Sierra DNA](https://techdocs.iii.com/sierradna/)
 This requires a Sierra login. Contains all the tables and fields used in Sierra's sql which can help you build your own sql query.
 
-### [PGAdmin](https://www.pgadmin.org/)
+#### [PGAdmin](https://www.pgadmin.org/)
 Sierra suggests using this postgresql application for your sql queries. Alternatively, new comers may find MS Access as an easy introduction to SQL, but the connection process is unfortunately more complicated.
 
-### [My Sierra SQL repository](https://github.com/KyleneKristine/Sierra-SQL/wiki/Sierra-Direct)
+#### [My Sierra SQL repository](https://github.com/KyleneKristine/Sierra-SQL/wiki/Sierra-Direct)
 This is a list of SQL I've used and recorded on my github repository. Feel free to use and edit as needed.
 
-### [Public Library of Cincinnati & Hamilton County sierra-sql Wiki](https://github.com/plch/sierra-sql/wiki)
+#### [Public Library of Cincinnati & Hamilton County sierra-sql Wiki](https://github.com/plch/sierra-sql/wiki)
 PLCH github repository full of ideas for SQL queries.
 
-### [UNC Chapel Hill Libraries Sierra SQL repository](https://github.com/UNC-Libraries/III-Sierra-SQL/wiki)
+#### [UNC Chapel Hill Libraries Sierra SQL repository](https://github.com/UNC-Libraries/III-Sierra-SQL/wiki)
 UNC github repository full of ideas for SQL queries.
 
-### [Jeremy Goldstein Sierra SQL repository](https://github.com/jmgold/SQL-Queries/wiki)
+#### [Jeremy Goldstein Sierra SQL repository](https://github.com/jmgold/SQL-Queries/wiki)
 Jeremy Goldstein's github repository full of ideas for SQL queries.
