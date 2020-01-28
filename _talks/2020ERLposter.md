@@ -10,7 +10,7 @@ location: "Austin, TX"
 
 ![Using SQL reduced time spent on removing duplicate records by 75%](https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/2020posterheader.jpg?raw=true "Using SQL reduced time spent on removing duplicate records by 75%")
 
-The Problem <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/problem.png" width="30" height="30">
+The Problem <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/problem.png">
 ---
 Use of multiple demand driven acquisitions plans resulted in overlap of titles being purchased.
 
