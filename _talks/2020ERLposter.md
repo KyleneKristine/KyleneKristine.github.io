@@ -16,7 +16,7 @@ Use of multiple demand driven acquisitions plans resulted in overlap of titles b
 
 Sierra Headings Report resulted in more irrelevant results than relevant. Staff was spending up to 4 hours a week sorting through these results.
 
-The Solution <img src="https://KyleneKristine.github.io/_presentations/code.png" width="30" height="30">
+The Solution ![](/images/code.png)
 ---
 Once vendor prioritization was decided, a SQL query was developed to look for more than one bib number linked to a single isbn. DDA records were separated from other eresources and print resources by using a local 910 tag. 
 
@@ -24,13 +24,13 @@ Once vendor prioritization was decided, a SQL query was developed to look for mo
 
 Once the query was successful, it was made into an executable program using python.
 
-The Results <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/solved.png" width="30" height="30">
+The Results ![](/images/solved.png)
 ---
 After uploading 227 jstor dda records, SQL returned 16 results. while SIERRA returned 126 records, only 16 were relevant.
 
 Staff went from spending 1-4 hours reviewing records to less than 30 minutes.
 
-The Resources <img src="https://github.com/KyleneKristine/KyleneKristine.github.io/blob/master/_presentations/book.png" width="30" height="30">
+The Resources ![](/images/research.png)
 ---
 #### Codecademy.com
 Learn SQL and PYTHON for free.
